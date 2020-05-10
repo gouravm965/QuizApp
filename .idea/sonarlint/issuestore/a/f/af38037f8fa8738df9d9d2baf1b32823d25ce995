@@ -1,0 +1,10 @@
+
+h
+java:S1301d"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8ºø¤—Ÿ.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8á›§—Ÿ.
+U
+java:S1128"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8õ¦–Ÿ.
+B
+java:S1659"%Declare "userAge" on a separate line.(¦ê¿Ÿ8õæĞ—Ÿ.
+>	java:S131d""Add a default case to this switch.(ºÖ8ºø¤—Ÿ.
